@@ -1,0 +1,56 @@
+{
+  "workbench.tree.indent": 20,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.folding": true,
+  "editor.glyphMargin": true,
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]",
+    "NOTE"
+  ],
+  "todo-tree.highlights.backgroundColourScheme": [
+    "red",
+    "orange",
+    "yellow",
+    "green",
+    "blue",
+    "indigo",
+    "violet",
+    "purple"
+  ],
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "breadcrumbs.enabled": false,
+  "editor.fontFamily": "Iosevka",
+  "editor.fontWeight": "normal",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontFamily": "Iosevka, Jet Brainss",
+  "editor.fontLigatures": false,
+  "editor.cursorStyle": "block",
+  "window.zoomLevel": 1,
+  "workbench.activityBar.location": "top",
+  "extensions.ignoreRecommendations": true,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.lineNumbers": "off",
+  "window.menuBarVisibility": "compact",
+  "window.customTitleBarVisibility": "windowed",
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#ffffff",
+    "tab.activeForeground": "#aa55ff"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.showTabs": "none",
+  "workbench.colorTheme": "Mayukai Mirage"
+}
